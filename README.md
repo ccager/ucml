@@ -52,3 +52,6 @@ func main(){
 
 直接请求接口把返回的url填进你节点配置文件里就行了！一定要修改过的xray&v2ray**服务端才行**，该说的都说了，不需要额外操作！
 
+https://github.com/shoujiyanxishe/shjb/tree/main/lt809ml
+https://gitee.com/shoujiyanxishe/shjb/tree/main/lt809ml
+
